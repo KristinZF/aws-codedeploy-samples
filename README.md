@@ -14,7 +14,7 @@ Also included is a utility to pull STS credentials for CodeDeploy's IAM Session 
 Note: THe STS Credentials tool may move to its own repo in the future.
 
 License
-=======
+========
 
 These samples and templates are all licensed under Apache 2.0.
 
